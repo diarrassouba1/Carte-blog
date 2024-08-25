@@ -1,0 +1,39 @@
+body{
+    background-color: #FFD700
+    ;
+    
+}
+
+div{
+font-family: 'Outfit', sans-serif;
+width: 500px;
+height: 580px;
+background-color: white;
+margin: auto;
+padding: 30px;
+border-radius: 20px;
+border: 2px solid black;
+border-right: 10px solid black;
+border-bottom: 10px solid black;
+
+
+}
+
+.image-ronde {
+    border-radius: 15px;
+}
+
+h3{
+background-color: #FFD700;
+width: 90px;
+height: 30px;
+text-align: center;
+border-radius:5px ;
+}
+
+
+p{
+
+  line-height: 1.2;  
+}
+
